@@ -1,0 +1,5 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Oil separator,Failure,1*10-6 /hr,"S. Augustynowicz, 5"
+Oil cooler,Failure,1*10-6 /hr,"S. Augustynowicz, 5"
+Oil absorber,Failure,1*10-6 /hr,"S. Augustynowicz, 5"
+Oil heater,Failure,1*10-6 /hr,"S. Augustynowicz, 5"
