@@ -1,0 +1,3 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Electric Motors,"Failure to Start, Failure to Run, Failure to Run-Extreme Environment","3*10-4 /Demand, 1*10-5 /hr, 1*10-3 /hr","SLAC 2009, Page 6 of 9"
+Electric Motors,"Failure to Start on Demand, Failure to Run - Normal, Failure to Run - Extreme","3*10-4 /Demand, 1*10-5/ hr, 1*10-3 /hr","ESS-0038692, 15(17)"
