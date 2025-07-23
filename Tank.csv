@@ -1,0 +1,3 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Tank dryer,Failure,1*10-6 /hr,"S. Augustynowicz, 5"
+Tank,Failure,1*10-6 /hr,"S. Augustynowicz, 5"
