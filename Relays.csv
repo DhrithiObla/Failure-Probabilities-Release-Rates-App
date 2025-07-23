@@ -1,0 +1,4 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Relays,"Failure to Energize, Failure NO Contact to Close, Short Across NO/MC Contact, Open NC Contact","1*10-4 /Demand, 3*10-7 /hr, 1*10-8 /hr, 1*10-7 /hr","Fermilab ES&H Manual, 4240TA-14"
+Relays,"Failure to Energize, Failure-No Contact to Close, Short Across NO/NC Contact, Open NC Contact","1*10-4 /Demand, 3*10-7 /hr, 1*10-8 /hr, 1*10-7 /hr","SLAC 2009, Page 6 of 9"
+Relays,"Failure to Energize, Failure No Contact to Close, Short, Open NC Contact","1*10-4 /Demand, 3*10-7 /hr, 1*10-8 /hr, 1*10-7 /hr","ESS-0038692, 15(17)"
