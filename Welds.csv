@@ -1,0 +1,5 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+"Pipe Welds D = Diameter, t = Wall Thickness","Small Leak: 10mm2 Pipes > 2"", Large Leak: 1000mm2 Rupture","2*10-11 (D/t)/hr, 2*10-12 (D/t)/hr, 6*10-13 (D/t)/hr","Fermilab ES&H Manual, 4240TA-14"
+Welds,Leak,3*10-9 /hr,"SLAC 2009, Page 7 of 9"
+Welds,Failure,3*10-9 /hr,"S. Augustynowicz, 5"
+"Piping Weld D = Diameter, t = Wall Thickness","Small Leak 10 mm2, Large Leak 1000 mm2, Rupture","2*10-11 (Demand/t)/hr-m, 2*10-12 (Demand/t)/hr-m, 6*10-13 (Demand/t)/hr-m","ESS-0038692, 15(17)"

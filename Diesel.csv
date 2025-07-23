@@ -1,0 +1,4 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Diesel (Complete Plant) (Emergency Run Loads) (Engine Only),"Failure to Start on Demand, Failure to Run, Failure to Run","3*10-2 /Demand, 3*10-3 /hr, 3*10-4 /hr","Fermilab ES&H Manual, 4240TA-13"
+"Diesel (complete plant) (emergency loads), Diesel (engine only)","Failure to Start, Failure to Run, Failure to Run","3*10-2 /Demand, 3*10-3 /hr, 3*10-4 /hr","SLAC 2009, Page 6 of 9"
+Diesel (Complete plant)(Emergency Run Loads) (Engine Only),"Failure to Start on Demand, Failure to Run, Failure to Run","3*10-2 /Demand, 3*10-3 /hr, 3*10-4 /hr","ESS-0038692, 15(17)"

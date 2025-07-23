@@ -1,0 +1,4 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Electrical Power Failure (Unplanned),"Time Rate, Demand Rate, Time Off","1*10-4  /hr, 3*10-4 /Demand, 1 hr","Fermilab ES&H Manual, 4240TA-11"
+Unplanned electrical power failure,Time rate (Time off),"1*10-4 /hr, (1hr)","SLAC 2009, Page 5 of 9"
+Electrical Power Failure,"Time Rate, Demand Rate, Time Off","1*10-4 /hr, 3*10-4 /Demand, 1 hr","ESS-0038692, 14(17)"

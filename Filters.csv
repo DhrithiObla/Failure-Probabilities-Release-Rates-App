@@ -1,0 +1,4 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Filter,Failure,1*10-6 /hr,"S. Augustynowicz, 5"
+HEPA Filter,"Plugging, Leakage, Rupture",3*10-5 /hr,"L. C. Cadwallader, 15"
+Filters,"Blockage, Leakage","1*10-6 /hr, 1*10-6 /hr","Roymech, Page 2 of 2"

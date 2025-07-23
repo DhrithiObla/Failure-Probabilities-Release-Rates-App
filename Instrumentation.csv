@@ -1,0 +1,4 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+"Instrumentation (Amplification, Transducers, Calibration, Combination)","Failure to Operate, Shifts","1*10-6 /hr, 3*10-5 /hr","Fermilab ES&H Manual, 4240TA-13"
+"Instrumentation (amplification, annunciators, transducers, calibration, combination)","Failure to Operate, Shifts","1*10-6 /hr, 3*10-5 /hr","SLAC 2009, Page 6 of 9"
+"Instrumentation (Amplification, Transducers, Calibration, Combination)","Failure to Operate, Shifts","1*10-6 /hr, 3*10-5 /hr","ESS-0038692, 15(17)"

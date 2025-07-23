@@ -1,0 +1,6 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Flanges (With Reinforced & Preformed Gaskets),"Leak 10mm2 Opening, Rupture","4*10-7 /hr, 1*10-9 /hr","Fermilab ES&H Manual, 4240TA-13"
+Flanges (With Packing or Soft Gaskets),"Leak 10mm2 Opening, Packing Blowout Rupture","4*10-7 /hr, 3*10-8 /hr, 1*10-9 /hr","Fermilab ES&H Manual, 4240TA-13"
+"Flanges, Closures, Elbows",Leak/Rupture,3*10-7 /hr,"SLAC 2009, Page 6 of 9"
+Flanges (With reinforced & preformed gaskets),"Leak 10 mm2 Opening, Rupture","4*10-7 /hr, 1*10-9 /hr","ESS-0038692, 15(17)"
+Flanges (With packing or soft gaskets),"Leak 10mm2 Opening, Packing Blowout, Rupture","4*10-7 /hr, 3*10-8 /hr, 1*10-9 /hr","ESS-0038692, 15(17)"

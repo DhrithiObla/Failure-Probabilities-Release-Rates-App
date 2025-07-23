@@ -1,0 +1,3 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+"Fans (Fan, Motor, & Starter)","Failure to Run, Failure to Start on Demand, Fans with Variable Frequency Drive",9*10-6 /hr,"Fermilab ES&H Manual, 4240TA-13"
+"Fans (fan, motor, & starter)",Failure to Run,9*10-6 /hr,"ESS-0038692, 15(17)"

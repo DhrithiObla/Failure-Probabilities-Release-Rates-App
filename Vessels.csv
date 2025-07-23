@@ -1,0 +1,6 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+"Vessels, Pressure","Small Leak: 10mm2, Disruptive Failure","8*10-8 /hr, 5*10-9 /hr","Fermilab ES&H Manual, 4240TA-15"
+Vessels (Pressure),"Small Leak 10 mm2, Disruptive Failure","8*10-8 /hr, 5*10-9/ hr","ESS-0038692, 16(17)"
+Vacuum Vessel or Refrigerator,Failure,1*10-6 /hr,"S. Augustynowicz, 5"
+Surge Vessel,Failure,1*10-6 /hr,"S. Augustynowicz, 5"
+Pressure Vessels,"General, High Standard","3*10-6 /hr, 0.3*10-6 /hr","Roymech, Page 2 of 2"

@@ -1,0 +1,4 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Fuses,"Premature Open, Failure to Open","1*10-6 /hr, 1*10-5 /Demand","Fermilab ES&H Manual, 4240TA-13"
+Fuses,"Premature Open, Failure to Open","1*10-6 /hr, 1*10-5 /hr","SLAC 2009, Page 6 of 9"
+Fuses,"Premature Open, Failure to Open","1*10-6 /hr, 1*10-5 /Demand","ESS-0038692, 15(17)"

@@ -1,0 +1,7 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Dewar,Loss of Vacuum,1*10-6 /hr,"Fermilab ES&H Manual, 4240TA-11"
+160 L LN2 Dewar (Low pressure),Loss of Vacuum,1*10-6 /hr,No
+110 L Liquid Helium Dewar,Loss of Vacuum,1*10-6 /hr,No
+Dewar,"Leak, Rupture",1*10-6 /hr,"SLAC 2009, Page 5 of 9"
+Dewar,Loss of Vacuum,1*10-6 /hr,"ESS-0038692, 14(17)"
+LHe Storage Dewar,Failure,1*10-9 /hr,"S. Augustynowicz, 5"

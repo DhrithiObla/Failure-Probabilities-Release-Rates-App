@@ -1,0 +1,4 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source 
+Ball Bearing,"Heavy Duty, Light Duty","20*10-6 /hr, 10*10-6 /hr","Roymech, Page 1 of 2"
+Roller Bearing,No,5*10-6 /hr,"Roymech, Page 1 of 2"
+Journal Bearing,No,5*10-6 /hr,"Roymech, Page 1 of 2"

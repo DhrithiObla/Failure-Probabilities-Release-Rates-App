@@ -1,0 +1,7 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Compressor (Two-stage Mycom),"Leak, Rupture","5*10-6 /hr, 3*10-7 /hr","Fermilab ES&H Manual, 4240TA-11"
+Compressor (Cryogenic),"Leak, Rupture",3*10-5 /hr,"SLAC 2009, Page 5 of 9"
+Compressor (Two-stage Mycom),"Leak, Component rupture","5*10-6 /hr, 3*10-7 /hr","ESS-0038692, 14(17)"
+Compressor,Failure,1*10-5 /hr,"S. Augustynowicz, 5"
+Compressor supply,Failure,1*10-9 /hr,"S. Augustynowicz, 5"
+Compressor discharge,Failure,1*10-9 /hr,"S. Augustynowicz, 5"

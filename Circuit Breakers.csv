@@ -1,0 +1,4 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Circuit Breakers,"Failure to Operate, Premature Transfer","1*10-3 /Demand, 1*10-6 /hr","Fermilab ES&H Manual, 4240TA-13"
+Circuit Breakers,"Failure to Operature, Premature transfer","1*10-3 /hr, 1*10-6 /hr","SLAC 2009, Page 6 of 9"
+Circuit Breakers,"Failure to Operate, Premature transfer","1*10-3 /Demand, 1*10-6 /hr","ESS-0038692, 15(17)"

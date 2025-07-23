@@ -1,0 +1,4 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Springs,"Highly Stressed, Lightly Stressed","1*10-6 /hr, 0.2*10-6 /hr","Roymech, Page 1 of 2"
+Hair Springs,No,1*10-6 /hr,"Roymech, Page 1 of 2"
+Calibration Springs,"Creep, Breaking","2*10-6 /hr, 0.2*10-6 /hr","Roymech, Page 1 of 2"

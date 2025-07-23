@@ -1,0 +1,4 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Rotating Seals,No,7*10-6 /hr,"Roymech, Page 1 of 2"
+Sliding Seals,No,3*10-6 /hr,"Roymech, Page 2 of 2"
+O Ring Seals,No,0.2*10-6 /hr,"Roymech, Page 2 of 2"

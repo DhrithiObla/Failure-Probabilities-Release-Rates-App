@@ -1,0 +1,7 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+"Cryogenic Magnet (Powered, Unmanned)",Rupture,2*10-7 /hr,"Fermilab ES&H Manual, 4240TA-11"
+"Cryogenic Magnet (Not Powered, Manned)",Rupture,2*10-8 /hr,"Fermilab ES&H Manual, 4240TA-11"
+Magnet (Cryogenic),"Leak, Rupture",1*10-6 /hr,"SLAC 2009, Page 6 of 9"
+"Cryogenic Magnet (Powered, unmanned)",Rupture,2*10-7 /hr,"ESS-0038692, 14(17)"
+"Cryogenic Magnet (Not powered, manned)",Rupture,2*10-8 /hr,"ESS-0038692, 14(17)"
+Magnetic Clutches,No,6*10-6 /hr,"Roymech, Page 1 of 2"

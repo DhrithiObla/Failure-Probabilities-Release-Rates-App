@@ -1,0 +1,4 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Batteries Power (UPC) Supplies,No Output,3*10-6 /hr,"Fermilab ES&H Manual, 4240TA-13"
+Batteries Power supplies,No output,3*10-6 /hr,"SLAC 2009, Page 6 of 9"
+"Batteries, Power (UPC) supplies",No Output,3*10-6 /hr,"ESS-0038692, 15(17)"

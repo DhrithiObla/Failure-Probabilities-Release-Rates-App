@@ -1,0 +1,3 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Motorized Louver,"Failure in Continuous Operation, Failure to Open on Demand",3*10-7 /hr,"Fermilab ES&H Manual, 4240TA-14"
+Motorized Louver,Failure in Continuous Operation,3*10-7 /hr,"ESS-0038692, 15(17)"

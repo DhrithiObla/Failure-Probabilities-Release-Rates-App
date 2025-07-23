@@ -1,0 +1,5 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Pumps,"Failure to Start, Failure to Run - Normal, Failure to Run - Extreme Environment","1*10-3 /Demand, 3*10-5 /hr, 1*10-3 /hr","Fermilab ES&H Manual, 4240TA-14"
+Pumps,"Failure to Start, Failure to Run-Normal, Failure to Run-Extreme Environment","1*10-3 /Demand, 3*10-5 /hr, 1*10-3 /hr","SLAC 2009, Page 6 of 9"
+Pumps,"Failure to Start on Demand, Failure to Run - Normal, Failure to Run - Extreme","1*10-3 /Demand, 3*10-5 /hr, 1*10-3 /hr","ESS-0038692, 15(17)"
+Cold pump,Failure,5*10-6 /hr,"S. Augustynowicz, 5"

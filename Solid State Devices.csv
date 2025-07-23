@@ -1,0 +1,7 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Solid State Devices Low PWR Application,"Fails to Function, Shorts","1*10-6 /hr, 1*10-7 /hr","Fermilab ES&H Manual, 4240TA-14"
+Solid State Devices Hi PWR Application,"Fails to Function, Shorts","3*10-6 /hr, 1*10-6 /hr","Fermilab ES&H Manual, 4240TA-14"
+Solid State Devices,"Fails to Function, Shorts","3*10-6 /hr, 1*10-6 /hr","SLAC 2009, Page 6 of 9"
+Solid State Hi PWR Application,"Fails to Function, Shorts","3*10-6 /hr, 1*10-6 /hr","ESS-0038692, 15(17)"
+Solid State Low PWR Application,"Fails to Function, Shorts","1*10-6 /hr, 1*10-7 /hr","ESS-0038692, 15(17)"
+"Hi Power Application, Low Power Application","Fails to Function, Shorts","1*10-6 /hr, 1*10-7 /hr","SLAC 2009, Page 6 of 9"

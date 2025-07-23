@@ -1,0 +1,5 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Switches,"Limit: Failure to Operate, Torque: Fail to Operate, Pressure: Fail to Operate, Manual: Fail to Transmit, Contact Shorts","3*10-4 /Demand, 1*10-4 /Demand, 1*10-4 /Demand, 1*10-5 /Demand, 1*10-8 /hr","Fermilab ES&H Manual, 4240TA-14"
+Switches,"Limit: Fail to Operate, Torque: Fail to Operate, Pressure: Fail to Operate, Manual: Fail to Operate, Manual: Contacts Short","3*10-4 /Demand, 1*10-4 /Demand, 1*10-4 /Demand, 1*10-4 /Demand, 1*10-8 /hr","SLAC 2009, Page 6 of 9"
+Switches,"Limit: Fail to Operate, Torque: Fail to Operate, Pressure: Fail to Operate, Manual: Fail to Transmit, Contact Shorts","3*10-4 /Demand, 1*10-4 /Demand, 1*10-4 /Demand, 1*10-5 /Demand, 1*10-8 /hr","ESS-0038692, 15(17)"
+Pressure Switches,No,15*10-6 /hr,"Roymech, Page 2 of 2"

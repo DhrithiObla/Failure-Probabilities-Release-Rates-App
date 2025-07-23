@@ -1,0 +1,8 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Piping,"Small Leak: 10mm2 Pipes > 2"", Large Leak: 1000mm2 Rupture","1*10-9 /m-hr, 1*10-10 /m-hr, 3*10-11 /m-hr","Fermilab ES&H Manual, 4240TA-14"
+PIPING,"Small Leak 10 mm2, Large Leak 1000 mm2, Rupture","1*10-9 /hr-m, 1*10-10 /hr-m, 3*10-11 /hr-m","ESS-0038692, 15(17)"
+Piping internal,Failure,1*10-9 /hr,"S. Augustynowicz, 5"
+Pipes,No,0.2*10-6 /hr,"Roymech, Page 2 of 2"
+Pipe Joints,No,0.5*10-6 /hr,"Roymech, Page 2 of 2"
+"Pipes > 3"", high quality",Rupture (Section),1*10-10 /hr,"SLAC 2009, Page 6 of 9"
+"Pipes < 3""",Rupture,1*10-9 /hr,"SLAC 2009, Page 6 of 9"
