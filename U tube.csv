@@ -1,0 +1,4 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+U-Tube Change (Cryogen Release),"Small Event, Large Event","3*10-2 /Demand, 1*10-3 /Demand","Fermilab ES&H Manual, 4240TA-12"
+U-tube change release (Cryogenic),"Small Event, Large Event","1*10-3 /hr, 4*10-5 /hr","SLAC 2009, Page 5 of 9"
+U-Tube Change (Cryogen Release),"Small Event, Large Event","3*10-2 /Demand, 1*10-3 /Demand","ESS-0038692, 14(17)"
