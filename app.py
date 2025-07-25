@@ -98,6 +98,9 @@ with tab2:
     with col7:
         st.markdown("[Kunkle Models 6933, 6934, 6935, Page 5](https://lqms.gsfc.nasa.gov/lqms-media/pvs/compfile/RV-KUNKLE-Series_6000.pdf)")
 
+    st.subheader("Not a Relief Valve?")
+    st.markdown("[Link to LQMS](https://lqms.gsfc.nasa.gov)")
+    
     search_term = st.text_input("Search across all tables: ")
 
     files = [
