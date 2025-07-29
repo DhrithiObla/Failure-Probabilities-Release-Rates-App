@@ -71,7 +71,7 @@ with tab1:
 
 with tab2:
 
-    st.header("Flow Rates")
+    st.header("Release Rates")
 
     st.subheader("Sources")
 
