@@ -34,9 +34,9 @@ with tab1:
 
     files = [
         "Bearings.csv", "Batteries.csv", "Circuit Breakers.csv", "Compressors.csv",
-        "Dewars.csv", "Diesel.csv", "Electric Motors.csv", "Electrical Power.csv",
+        "Dewarss.csv", "Diesel.csv", "Electric Motors.csv", "Electrical Power.csv",
         "Fans.csv", "Filters.csv", "Flanges.csv", "Fuses.csv", "Gaskets.csv",
-        "Gears.csv", "Header Piping.csv", "Instrumentation.csv", "Lines.csv",
+        "Gears.csv", "Header Pipingss.csv", "Instrumentation.csv", "Liness.csv",
         "Magnets.csv", "Motorized Louvers.csv", "Oil.csv", "Orifices.csv",
         "Piping.csv", "Pumps.csv", "Relays.csv", "Seals.csv", "Solid State Devices.csv",
         "Springs.csv", "Switches.csv", "Tank.csv", "Transformers.csv", "U tube.csv",
