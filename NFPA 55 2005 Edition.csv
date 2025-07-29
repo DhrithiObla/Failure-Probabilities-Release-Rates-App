@@ -1,0 +1,4 @@
+Container Type,Nonliquified Gases (min),Liquified Gases (min),Source
+Cylinders without restrictive flow orifices,5,30,"NFPA 55 2005 Edition, 55-24"
+Portable tanks without restrictive flow orifices,40,240,"NFPA 55 2005 Edition, 55-24"
+All others,Based on peak flow from maximum valve orifice,Based on peak flow from maximum valve orifice,"NFPA 55 2005 Edition, 55-24"
