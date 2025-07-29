@@ -1,0 +1,5 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Fluid Line (Cryogenic),"Leak, Rupture","5*10-7 /hr, 2*10-8 /hr","Fermilab ES&H Manual, 4240TA-11"
+VJ Transfer Line,"Rupture, Leak","5*10-7 /hr, 2*10-8 /hr","Fermilab ES&H Manual, 4340TA-11"
+Fluid Line,"Leak, Rupture","5*10-7 /hr, 2*10-8 /hr","ESS-0038692, 14(17)"
+Fluid line (Cryogenic),"Leak, Rupture",3*10-6 /hr,"SLAC 2009, Page 6 of 9"

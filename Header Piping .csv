@@ -1,0 +1,4 @@
+Component,Failure Mode,Estimated Median Failure Rate,Source
+Header Piping Assembly,Rupture,1*10-8 /hr,"Fermilab ES&H Manual, 4240TA-12"
+Header Piping,Rupture,1*10-8 /hr,"Fermilab ES&H Manual, 4340TA-12"
+Header Piping Assembly,Rupture,1*10-8 /hr,"ESS-0038692, 14(17)"
